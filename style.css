@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /* box-sizing : all the margin and padding we add that contrains inside box and dsnt grow our box */
+}
+
